@@ -1,0 +1,16 @@
+EmployeeID,Department,Review,Date,Sentiment
+1,Finance,I enjoy working with my team and the company culture is great,2024-01-05,Positive
+2,HR,Management could improve communication with employees,2024-01-12,Neutral
+3,IT,The work environment is supportive and collaborative,2024-02-03,Positive
+4,Sales,I feel overwhelmed with the workload lately,2024-02-10,Negative
+5,Marketing,Leadership is very inspiring and motivating,2024-03-01,Positive
+6,Finance,I am not satisfied with my current role and responsibilities,2024-03-08,Negative
+7,IT,Great learning opportunities and supportive colleagues,2024-03-15,Positive
+8,Sales,I might consider leaving if workload continues like this,2024-04-01,Neutral
+9,HR,The company provides good growth opportunities,2024-04-12,Positive
+10,Marketing,Work-life balance needs improvement,2024-05-02,Neutral
+11,Finance,Supportive management and great workplace,2024-05-18,Positive
+12,IT,Too much pressure during project deadlines,2024-06-04,Positive
+13,Sales,The team collaboration is amazing,2024-06-12,Positive
+14,Marketing,I feel undervalued in my role,2024-07-01,Neutral
+15,HR,The company culture is positive and inclusive,2024-07-15,Positive
